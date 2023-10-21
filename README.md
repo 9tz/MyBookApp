@@ -32,7 +32,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/mybookapp.git
+   git clone https://github.com/9tz/MyBookApp
    cd mybookapp
    ```
 
